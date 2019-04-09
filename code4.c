@@ -5,8 +5,8 @@
 int main(void){
   int a = 3;
   int b = 2;
-
-  int y = MACRO_FN(a+b);
+  int c = a + b;
+  int y = MACRO_FN(c);
 
   printf("y=%d\n", y);
   return 0;
