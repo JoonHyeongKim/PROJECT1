@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 __MACOS*
 *.out
+=======
+*.o
+>>>>>>> b101dd9ea583c0b279f95bdf7295ff85e2ba473d
